@@ -1,5 +1,5 @@
 # Explorer-Process-Execution
-Inject dll to explorer.exe and prevent execution.
+Inject dll to explorer.exe and prevent file execution.
 
 ## Requierments:
 Microsoft Detours Library - https://github.com/microsoft/Detours
