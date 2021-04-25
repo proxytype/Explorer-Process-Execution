@@ -11,3 +11,6 @@ Microsoft Detours Library - https://github.com/microsoft/Detours
 4. NMAKE
 
 Add detours.lib to Linker additional libraries.
+
+**Hooked Functions:**
+- NtCreateUserProcess <br>
